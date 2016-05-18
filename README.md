@@ -11,6 +11,7 @@ First, we need to check out the project.
 ## Create the HTML
 Open `index.html` in your project workspace, and add the JQUERY library to the head of your html: 
 ```<script src="https://code.jquery.com/jquery-2.1.4.js"></script>```
+Also in the head, create a second script tag that links to the solution.js file
 
 Now in the body of your HTML:
 * Add a button with the id "change" and the text "Change Color".
